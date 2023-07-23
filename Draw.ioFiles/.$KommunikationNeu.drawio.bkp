@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-07-18T09:41:41.441Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.1 Chrome/112.0.5615.87 Electron/24.1.2 Safari/537.36" etag="MYfr0XuLY-2oME8u0M4k" version="21.2.1" type="device">
+<mxfile host="Electron" modified="2023-07-06T12:46:32.004Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.1 Chrome/112.0.5615.87 Electron/24.1.2 Safari/537.36" etag="zk1mQcFnjR4vvtB5M8So" version="21.2.1" type="device">
   <diagram name="Seite-1" id="yg0N79Os0NL9OwQJXT_5">
-    <mxGraphModel dx="819" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,14 +50,8 @@
         <mxCell id="DvOUAPL_K_GH1Hb8-OZM-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Sensoren&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="360" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="unXkiz8QoINL2W1Vrq3W-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Haushaltsleistung&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="290" y="241" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SMpsT1WkzOtBd2fR6psD-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="210" y="360" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SMpsT1WkzOtBd2fR6psD-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;2&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="210" y="240" width="30" height="30" as="geometry" />
+        <mxCell id="unXkiz8QoINL2W1Vrq3W-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Haushaltsleistung&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="250" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
